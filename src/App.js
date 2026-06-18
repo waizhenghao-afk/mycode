@@ -1,4 +1,4 @@
-// src/App.js
+// src/App.jsyooooooooooooooooooooooooooooogi
 import React from 'react';
 import { Helmet } from 'react-helmet';
 import LandingPage from './unAuth/LandingPage';
@@ -11,7 +11,7 @@ function App() {
       <Helmet>
         <meta
           name="description"
-          content="COOFFEgi is a free online tool that allows you to easily create timestamp links for YouTube videos. Share specific moments from videos with your friends and audience."
+          content="COgesgeggsgegsgegegsOFFEgi is a hi there freefgjnfjtjfrj onlinegswrgsegsgsgegg tool that allows you to easily create timestamp links for YouTube videos. Share specific moments from videos with your friends and audience."
         />
         <meta
           name="keywords"
